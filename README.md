@@ -109,5 +109,5 @@ This project is for educational use only. You are free to modify and extend it u
 
 👨‍💻 Developed By
 Kushal Kumawat
-Intern at CodTech Interns (2025)
-🔐 Focus Area: Cybersecurity & Network Defense
+Intern at Inlighn Tech (2025)
+🔐 Focus Area: Offensive Cybersecurity Intern
