@@ -20,7 +20,7 @@ def show_banner():
 ║     Advanced Intrusion Detection System    ║
 ║           Internship Project (2025)        ║
 ║         Developed by: Kushal Kumawat       ║
-║       Internship at: CodTech Interns       ║
+║  Internship at: CodecTechnologies Interns  ║
 ╚════════════════════════════════════════════╝
 {Style.RESET_ALL}
 """
