@@ -6,7 +6,7 @@ A real-time network monitoring and intrusion detection system built with Python 
 
 ## 📌 Project Overview
 
-This project was developed as part of my internship at **CodTech Interns (2025)**. The goal was to create a feature-rich and user-friendly Intrusion Detection System that can help detect common network-based attacks in real time and log those alerts for further analysis.
+This project was developed as part of my internship at **CodecTechnologies (2025)**. The goal was to create a feature-rich and user-friendly Intrusion Detection System that can help detect common network-based attacks in real time and log those alerts for further analysis.
 
 ---
 
@@ -109,5 +109,5 @@ This project is for educational use only. You are free to modify and extend it u
 
 👨‍💻 Developed By
 Kushal Kumawat
-Intern at Inlighn Tech (2025)
+Intern at CodecTechnologies (2025)
 🔐 Focus Area: Offensive Cybersecurity Intern
