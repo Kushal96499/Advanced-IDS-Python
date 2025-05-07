@@ -2,6 +2,17 @@
 
 A real-time network monitoring and intrusion detection system built with Python and Scapy. This project detects suspicious activities like SYN floods, port scans, DNS spoofing, and ping of death attacks. Designed to be user-friendly, colorful, and informative — perfect for educational, internship, and research purposes.
 
+**COMPANY:** CODEC TECHNOLOGIES INDIA
+
+**NAME:** KUSHAL KUMAWAT
+
+**NCS ID:** E19E86-0116588287923
+
+**DOMAIN:** Cyber Security Intern
+
+**DURATION:** 3 Months
+
+**MENTOR:** Miss.Vaishali
 ---
 
 ## 📌 Project Overview
