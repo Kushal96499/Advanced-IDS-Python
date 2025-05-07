@@ -98,7 +98,7 @@ Use a tool like ettercap or custom Scapy spoofing script to simulate.
 
 📈 Output
 
-![Image](https://github.com/user-attachments/assets/0c75fb8d-d390-42cd-939e-276c0ac7a4d7)
+![Image](https://github.com/user-attachments/assets/6e78affa-d31d-47be-967f-119d22b1ecaa)
 
 ---
 
