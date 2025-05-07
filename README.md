@@ -110,4 +110,4 @@ This project is for educational use only. You are free to modify and extend it u
 👨‍💻 Developed By
 Kushal Kumawat
 Intern at CodecTechnologies (2025)
-🔐 Focus Area: Offensive Cybersecurity Intern
+**🔐 Focus Area:** Cybersecurity Intern
